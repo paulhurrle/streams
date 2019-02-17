@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "A stream",
+      "description": ";alkdf;alksjd;laskjdf;laskjdf",
+      "id": 1
+    },
+    {
+      "title": "Another stream here",
+      "description": ";alkdf;alksjd;laskjdf;laskjdf",
+      "id": 2
+    },
+    {
+      "title": "bananas",
+      "description": "are so tasty!!",
+      "userId": "110833850239422985431",
+      "id": 3
+    },
+    {
+      "title": "Avocados",
+      "description": "Mmmmmm",
+      "userId": "110833850239422985431",
+      "id": 4
+    }
+  ]
+}
