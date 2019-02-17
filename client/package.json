@@ -5,6 +5,7 @@
   "dependencies": {
     "@types/redux-form": "^7.5.0",
     "axios": "^0.18.0",
+    "flv.js": "^1.5.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "react-redux": "^6.0.0",
